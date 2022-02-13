@@ -50,7 +50,7 @@ afterEvaluate {
 
                 groupId = 'com.github.Anshul1507'
                 artifactId = 'Toaster'
-                version = 'v0.3'
+                version = 'v0.4'
             }
         }
     }
